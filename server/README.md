@@ -7,6 +7,8 @@ Welcome to the DALLE AI Server project! This project provides a server implement
 DALLE (short for "Diverse All-Pairs and Link Embeddings") is a state-of-the-art AI model for image generation developed by OpenAI. This server facilitates interaction with the DALLE model, allowing clients to submit requests for image generation and receive the generated images in response.
 
 1. **Install Dependencies**: Navigate to the project directory and install the dependencies using npm or yarn.
+
+    ```bash
     cd dalle-ai-server
     npm install
     ```
