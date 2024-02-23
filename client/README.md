@@ -9,6 +9,6 @@ Currently, two official plugins are available:
 
 **Start the Development Server**: Run the following command to start the development server:
 
-    ```bash 
+    ``` 
     npm run dev
     ```
