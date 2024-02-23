@@ -11,10 +11,13 @@ Currently, two official plugins are available:
 1. **Install Dependencies**: Navigate to the project directory and install the dependencies using npm or yarn.
 
     ```bash
-    cd react-vite-starter
+    cd client
     npm install
     ```
-    
+
 2. **Start the Development Server**: Run the following command to start the development server:
 
+    ```bash
     npm run dev
+    ```
+

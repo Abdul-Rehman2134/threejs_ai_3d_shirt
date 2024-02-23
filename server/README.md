@@ -9,7 +9,7 @@ DALLE (short for "Diverse All-Pairs and Link Embeddings") is a state-of-the-art 
 1. **Install Dependencies**: Navigate to the project directory and install the dependencies using npm or yarn.
 
     ```bash
-    cd dalle-ai-server
+    cd server
     npm install
     ```
 
